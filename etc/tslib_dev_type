@@ -1,0 +1,2 @@
+TSLIB_TSDEVICE=/dev/touchscreen-1wire
+TSLIB_CONFFILE=/usr/local/etc/fa.conf
